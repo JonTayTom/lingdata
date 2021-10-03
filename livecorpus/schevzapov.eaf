@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-10-03T18:37:58+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/tatit/.elan_data/schevzapov.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Users/tatit/.elan_data/schevzapov.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f728b2a8-6ec5-44eb-b50e-bd4517e9c802</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">44</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="14020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="14025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="14387"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="14405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="27075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="27091"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="27408"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="27415"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="41145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="41292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="61440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="61562"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="67820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="67985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="70685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="70790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="91560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="91560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="95990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="96245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="101690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="101730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="114850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="114970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="122710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="123010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="126690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="126940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="136700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="136910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="140700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="141015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="144245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="144470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="149090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="149290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="153969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="154010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="161504"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="161517"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="162482"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="162506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="172170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="172203"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="177636"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="JonTayTom" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@sgs1959m" TIER_ID="text@sgs1959m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>#цмыкает# / ну / да / в принципе уже и апрель месяц заканчивается / и будем говорить мы... мы не останавливаемся на коронавирусе / эээ / мы работаем / потому что  у нас...  на самом деле / эээ / восстановление маршрута / подготовка грузится на три этапа // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>первый этап потому что / эээ / это идет до высоты там тысяча метров / второй этап до тысячи восьмисот метров / третий этап это в июне... конце июня где-то более двух тысяч метров до трех / потому что там еще снега / поэтому мы делаем пока ... / #вздыхает#  нижнюю часть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ну хочу сказать / что мы практически в этом году уже / спад... / эээ / закончили / это / эээ/ рекреационные объекты #нрзб# комплексы подготовили / #вздыхает# / провели значит инвентаризацию / закончили значит очистны... строим домики / #вздыхает# эээ / для животных / более современные / эээ / южные культуры / полностью закончена... подготовка к сезону //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>мы там / эээ / сделали главный вход / сделали дополнительный еще один вход со стороны Имеретинки / чтобы туристам удобней ходить</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>также там строим туалеты / место отдыха делаем</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>также мы / #сглатывает# / впервые за последние много лет / эээ / там у нас произрастает шестьсот шестьдесят пять видов деревьев / эээ / двенадцать видов пальм / и всего насчитывается двести... шестьдесят два ви... / двести шестьдесят две пальмы / которые много лет никогда не... / эээ / будем говорить / не... очищались от сухих веток //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>если по городу едете / видите / стоит пальма и очень много на ней сух... / с... / сухостоя //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>в этом году мы практически уже закончили полностью... / #нрзб# всех сухих веток / полностью //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>это на много лет даст нам / образно говорю / и / эээ / дальнейшее #вздыхает# такое красивое / эээ / содержание #кашлянул# / деревьев потому что Южные культуры я считаю / это один из самых лучших парков в городе Сочи // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Южный и дендрарий / их уже это такие два парка очень серьезных / #вздыхает# у нас богаче образно... / эээ / здесь / эээ / больше видов ж... / в.. видов растений // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>мы тоже понемногу... / готова самшитовая роща / третий рекреационный объект //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>также проведены мероприятия по... укладке новых лестниц / отбоин обязательно / эээ / и... на всех объектах мы пересмотрели / это рейка безопасности //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>потому что чтобы / всякие веревки натянуты / цепи и так далее</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>предупредительный / запрещающий / указательный знаки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>вот тут вы видите сами находимся на четырнадцатом маршруте / который уже тоже практически готов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>вы видели / сегодня нас наш лагерь стоят / и образно осталось только чуть #нрзб# переделать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>в связи с тем что щас #вздыхает# / работы такие большие не ведутся / мы ходим / эээ / работаем силами своими... государственных инспекторов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>пытался работать здесь и южный отдел / и западный отдел / #нрзб# принимает участие / # вздыхает# работы все эти / эээ / заканчиваются / эээ / буквально первого там первого мая дано поручение //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>второй этап это будет до... / #долгий вздох# где-то до... до двадцать пятого мая / потом уже до пятнадцатого июня //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="JonTayTom" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@sgs1959m"
+        PARTICIPANT="@sgs1959m" TIER_ID="transl@sgs1959m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Well, yes, april is at its end now and, say, we... we *incomprehensible* stop because of coronavirus, we do our job because we... actually, tourist routes reconstruction and preparation is divided into three stages</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>FIrst stage is because of... it goes below thousand metres height, second stage starts from thousand eight hundred metres, third one is in June... end of June and is higher than two thousand metres to three due to snow up there, so we do the lower part now</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>I want to point out that we nearly... ended the recreation facilities, *incomprehensible* complexes are finished already, we proceeded with the inventarisation, finished the... we modernise houses for animals. Southern cultures are prepared for the annual seasoning.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Also a new main entrance, as well as one from Imeretinka side were completed to provide easier access for tourists. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>We also build WCs and resting places.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>We also... first time in a couple of years... there grow six hundred sixty five types of trees, twelve palm types, making an overall of two hundred sixty two palms which have long been abandoned and not cut, so the deadwood appeared.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>You can spot it when you drive through the city. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>This year we have nearly finished cutting off the deadwood.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>This would make the trees a good look for a long time because in my opinion the Yuzhniye Kul'tury is one of the best parks in Sochi.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Yuzhniy and arboretum, these parks are quite prominent. We have a bigger range of plants growing here.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>also... the boxwood is ready, the third recreational object.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Measures are taken to build new stairways, bumpers of course, and we have managed to implement safe rails on every object as well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>So that every chain or rope is shackled and so on</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>warning, prohibiting and indicatory sights</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>we are on the fourteenth route as you can see, which is nearly done already</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>you saw our camp today and there is only *incomprehensible* left to deal with.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Due to the fact that massive works are not proceeded now we walk around and do our job with state inspectors.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>both southern and western department worked here, *incomprehensible* take its part, all these works end at the very first may by an order.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>the second stage will continue until the twenty fifth of May and then to the fifteenth of June. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="JonTayTom" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@invw1980m" TIER_ID="text@invw1980m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>итак / эээ / сезон не за горами / летний / предстоящий / какие нововведения / эээ / может быть новые туристические маршруты / эээ / в заповеднике / ээ / планируют открыть?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="JonTayTom" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@invw1980m"
+        PARTICIPANT="@invw1980m" TIER_ID="transl@invw1980m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>So, the upcoming summer season is about to start, what enterprises, possibly, are there any new tourist routes are ready to be opened for public access?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_3b96d69a-0f89-4bfb-9fb7-8c2ae1e82067">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_56a3e4ee-87e2-4a54-9200-705306af6e52">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_61c87390-bed7-4d9c-9844-c1e0ff4a0dbe">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d7f0fd2b-4894-4151-b4eb-fd52eaeee137">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9b42fad0-2417-4f4f-a019-8d785eeab71d">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8094cb15-9925-4390-8d21-a9020058829b">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a52eac73-c8e4-4cd4-825c-17832fc3a98a">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c5dd7bdc-5148-4b89-a174-fc81483547ba">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c753ec18-f3ed-4b28-88a2-c8b9916e60c9">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6d90137f-51f6-48d8-96a5-dfbd645e70bf">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a4484f15-dd37-40a4-9f18-1c8cbdba459e">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f1bf1115-e9bf-444d-a23d-8a97fcbe2cb3">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0639a872-ab95-4d70-b9b5-66cff97f7c63">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_d0eb17bb-2dcf-4053-b7df-1b23c2f6b3cb">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_71f993e7-7126-4d4f-a5f9-3cdd6d15661c">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e4de3a81-10d0-437c-9c8d-7c38a46a7ab9">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_51d005b0-0f44-471f-abf3-f3ff2bdc6edc">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
